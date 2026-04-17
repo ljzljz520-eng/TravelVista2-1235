@@ -5,7 +5,7 @@ import com.travelvista.common.Result;
 import com.travelvista.entity.ScenicSpot;
 import com.travelvista.service.ScenicSpotService;
 import org.springframework.web.bind.annotation.*;
-import javax.annotation.Resource;
+import jakarta.annotation.Resource;
 import java.math.BigDecimal;
 import java.util.List;
 

@@ -6,7 +6,7 @@ import com.travelvista.common.Result;
 import com.travelvista.entity.Review;
 import com.travelvista.service.ReviewService;
 import org.springframework.web.bind.annotation.*;
-import javax.annotation.Resource;
+import jakarta.annotation.Resource;
 
 @RestController
 @RequestMapping("/review")
